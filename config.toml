@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = ""
+baseURL = "https://sembaja.vercel.app/"
 languageCode = "en"
 title = "Sembaja"
 theme = "hargo"
@@ -98,7 +98,7 @@ mobile = "+34942894452"
 email = "spatorvea@email.com"
 location = "39300 Torrelavega, Cantabria, Spain"
 # copyright
-copyright = "| Copyright &copy; 2021 [Gethugothemes](https://gethugothemes.com) All Rights Reserved |"
+copyright = "| Copyright &copy; 2021 https://sembaja.vercel.app/ All Rights Reserved |"
 # Snipcart Credentials
 snipcartApiKey = "M2E5YjA3NjMtYzRiYS00YzVjLWEyYWYtNDY5ZDI0OWZhYjg5"
 currencySymbol = "$"
