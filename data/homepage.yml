@@ -1,7 +1,7 @@
 ############################ banner ##########################
 banner:
   enable : true
-  title : "Crema facial "Poder del loto sagrado""
+  title : "Crema facial Poder del loto sagrado"
   content : "Hidratación revitalizante y revitalizante de día y de noche"
   image : "images/banner.png"
   # button
